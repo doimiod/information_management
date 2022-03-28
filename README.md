@@ -1,1 +1,1 @@
-# infomation_management
+# information_management
